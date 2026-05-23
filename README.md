@@ -339,7 +339,7 @@ File → Open File
 # 📸 Capture — JADX GUI
 
 <p align="center">
-  <img src="./screen 11.png" width="700">
+  <img src="./scree 11.png" width="700">
 </p>
 
 ---
@@ -519,7 +519,7 @@ unzip -j app-debug.apk "classes*.dex" -d dex_out
 # 📸 Capture — Extraction DEX
 
 <p align="center">
-  <img src="./scree 7.png" width="700">
+  <img src="./screen 7.png" width="700">
 </p>
 
 ---
