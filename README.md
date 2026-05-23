@@ -785,22 +785,6 @@ rm -rf ./dex_out
 
 ---
 
-# 📸 Capture — Résultats finaux
-
-<p align="center">
-  <img src="./screen 10.png" width="700">
-</p>
-
----
-
-# ✅ Checkpoint
-
-- [ ] Rapport nettoyé
-- [ ] Résultats organisés
-- [ ] Artefacts supprimés
-
----
-
 # ⚠️ Troubleshooting
 
 | Problème | Solution |
