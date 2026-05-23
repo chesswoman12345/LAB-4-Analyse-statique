@@ -639,14 +639,6 @@ Outils utilisés
 
 ---
 
-# 📸 Capture — Rapport
-
-<p align="center">
-  <img src="./screen 17.png" width="700">
-</p>
-
----
-
 ## Résumé exécutif
 
 Exemple :
