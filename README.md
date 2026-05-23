@@ -172,11 +172,11 @@ Résultat attendu :
 # 📸 Captures — Vérification APK
 
 <p align="center">
-  <img src="./screen 1.png" width="700">
+  <img src="./screen1.png" width="700">
 </p>
 
 <p align="center">
-  <img src="./scrr 2.png" width="700">
+  <img src="./scren 2.png" width="700">
 </p>
 
 ---
@@ -204,7 +204,7 @@ unzip -l app-debug.apk | head -20
 # 📸 Capture — Structure APK
 
 <p align="center">
-  <img src="./scree 3.png" width="700">
+  <img src="./scree3.png" width="700">
 </p>
 
 ---
@@ -228,7 +228,7 @@ sha256sum app-debug.apk
 # 📸 Capture — Hash APK
 
 <p align="center">
-  <img src="./scree 4.png" width="700">
+  <img src="./screen 4.png" width="700">
 </p>
 
 ---
@@ -291,7 +291,7 @@ APK Extractor
 # 📸 Capture — APK Extractor
 
 <p align="center">
-  <img src="./screen 6.png" width="350">
+  <img src="./scren 6.png" width="350">
 </p>
 
 ---
@@ -543,7 +543,7 @@ unzip -j app-debug.apk "classes*.dex" -d dex_out
 # 📸 Capture — dex2jar
 
 <p align="center">
-  <img src="./scree 8.png" width="700">
+  <img src="./screen 8.png" width="700">
 </p>
 
 ---
@@ -788,7 +788,7 @@ rm -rf ./dex_out
 # 📸 Capture — Résultats finaux
 
 <p align="center">
-  <img src="./scren 10.png" width="700">
+  <img src="./screen 10.png" width="700">
 </p>
 
 ---
