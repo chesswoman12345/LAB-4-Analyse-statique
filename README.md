@@ -710,14 +710,6 @@ Forcer HTTPS uniquement.
 
 ---
 
-# 📸 Capture — Résultats analyse
-
-<p align="center">
-  <img src="./screen 18.png" width="700">
-</p>
-
----
-
 # ✅ Checkpoint
 
 - [ ] Rapport rédigé
